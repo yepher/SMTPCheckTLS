@@ -1,6 +1,9 @@
 # SMTPCheckTLS
 
-Tool to simplify checking the validity of and SMTP servers TLS setup
+CheckTLS is a tool to simplify checking the validity of and SMTP servers TLS setup
+
+When cloning project clone it to a directory names `checktls` so binary will be named appropriately.
+
 
 ## Usage
 
@@ -26,7 +29,7 @@ GLOBAL OPTIONS:
 ```
 
 
-## Alternative SMTP TLS Check
-
+## Alternative ways to check SMTP TLS configuration
 
 * `openssl s_client -connect SMTP_SERVER:PORT -starttls smtp`
+* 
