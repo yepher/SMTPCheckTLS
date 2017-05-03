@@ -9,7 +9,7 @@ When cloning project clone it to a directory names `checktls` so binary will be 
 
 ```
 NAME:
-   Quck SMTP TLS Checker - ./checktls --n smtp.gmail.com
+   Quick SMTP TLS Checker - ./checktls --n smtp.gmail.com
 
 USAGE:
    checkTLS [global options] command [command options] [arguments...]
